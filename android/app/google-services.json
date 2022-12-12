@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "92222691900",
+    "project_id": "dc-civil-rights-tour",
+    "storage_bucket": "dc-civil-rights-tour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92222691900:android:685a2120fb665d50a2c139",
+        "android_client_info": {
+          "package_name": "com.realdchistorytour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92222691900-e25mufvg93b6hcklua5l867gcua40a7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realdchistorytour",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "92222691900-0kbb27ndqhgb3cckrd60ds349rg8jh7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSX3mvvmxGB7qGCVpw234xBFMjwBIo7Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92222691900-0kbb27ndqhgb3cckrd60ds349rg8jh7p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92222691900-m2m7adm8cmr8kegtpmnooihh5ouh0ct0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.RealDCHistory"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

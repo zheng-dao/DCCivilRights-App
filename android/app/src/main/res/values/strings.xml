@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Civil Rights Tour</string>
+      <string name="facebook_app_id">591754105984816</string>
+       <string name="facebook_client_token">80de0e94632173b1528498409c021e0e</string>
+</resources>
